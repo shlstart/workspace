@@ -17,3 +17,5 @@ hello atguigu! hllo git!
 hello atguigu! hllo git!
 hello atguigu! hllo git!
 hello atguigu! hllo git! master
+hello atguigu! hllo git! hot-fix
+
